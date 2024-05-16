@@ -1,0 +1,302 @@
+Package: AP-Fucker
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./AP-Fucker_1.0_all.deb
+Size: 3304
+MD5sum: a937c7790679642c39ac67e079c46f6d
+SHA1: 95b0ca12f5a206475427a3e463382caf0ad2ddb1
+SHA256: f3c2fd8ba02018681e3d58b771fc03df10c408c08011ca36358307561e91889e
+SHA512: 16566f997521aed941ada2411714ae0f88970079d5d61fbaa01bd685029c8f9ae26c2d5cbdf2d9256159b5205521fdf2d31eb77b77dce172335a969a8a62d8bc
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: WiFi pentest tool
+
+Package: apt-fzf
+Architecture: all
+Version: 1.0
+Maintainer: @StalinKali
+Depends: apt
+Filename: ./apt-fzf_1.0_all.deb
+Size: 1028
+MD5sum: 81764d90ab828cf8384ff2c50822a117
+SHA1: 92eef63980b7c188a5b338db80bbb5bb0ff30e9e
+SHA256: c2e07d22645ebc77c44b64008003b210689b9c4be44380a2f847493a9a55dab5
+SHA512: 3a685233af3f30aeeec861365c7048259d50ae9ecc387276f71b1390f57424a6ab28297a28416169387e873e1a675c7bab26e5d33badd58f2e16c754d73c1a3e
+Homepage: http://notabug.org/StalinKali/apt-fzf
+Description: apt with fzf interface
+
+Package: audiogrep
+Architecture: all
+Version: 1.0
+Maintainer: @StalinKali
+Depends: ffmpeg
+Filename: ./audiogrep_1.0_all.deb
+Size: 804
+MD5sum: 00af3d26cf732e2054f42b18b3b0a30c
+SHA1: 5dfb35574bc968fd589eab43b2f115c2aaea26b0
+SHA256: 61df5f2ac68931335fb883ab5593b30eb70d994e4b03437c53e3968252698063
+SHA512: 0ee321fc6232644afe53e9fd74f8ed3d229c83c5185a2e84c0d2a5a53ed65818f7b0eb1f8a3e082b06b70081b94e84578b156fe0d20d6ed118aecb102710812b
+Homepage: http://notabug.org/StalinKali/audiogrep
+Description: Audio cutter
+
+Package: bat
+Architecture: all
+Version: 1.0
+Maintainer: @sharkdp
+Filename: ./bat_1.0_all.deb
+Size: 12711604
+MD5sum: 4ce4e7d856a5d8d4d2a354966df8d496
+SHA1: d14a98359f61cac813c89a0425f35e2dd9c48bc2
+SHA256: c032152677af5b21bb9f24fe6afd372931b08d7a1824f76d4deac00ced1a28a2
+SHA512: 6db5e16d3d07dbd087808a95ccafc0348e9942d8148f9349dd23cbfaaaffaafc3fe9eb2c00489eb82e6195290918cd49c76cd7ef6aefbb1ae4b6b179a1b458ec
+Homepage: http://github.com/sharkdp/bat
+Description: Colorized version of cat
+
+Package: cryptutil
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Filename: ./cryptutil_1.0_all.deb
+Size: 1580
+MD5sum: 946bb8f5da884fc45ab613183687e25a
+SHA1: 846207f14d908b41cbf983668d9eda3adeb917c5
+SHA256: dff95ad3f6e4d3c358dd3860e64aec34bb1dedd26cefd954f3d07909e4eef160
+SHA512: cf2f5c7829e857e570a6d8d1c7cb5f2fba99a3c479236b1332e9e9ae473e0be311a0983e531578505d3331e6f42d28d45a033379c3a629cd00a33d1b911a85c1
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: WiFi pentest tool
+
+Package: evil-ssdp
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python
+Filename: ./evil-ssdp_1.0_all.deb
+Size: 7884
+MD5sum: 2a42ca5fc9d9ffe975bbf312723446fe
+SHA1: 6fa9cdba78c22f76b002988a31bd80107fdf3743
+SHA256: 1e6b0c9447b919a1fb350811157ec8386e1dc0b057f90b4ebca4b58dc6c741cf
+SHA512: 7512b66a781eb4e270e4c3040ea7e6cb13c769f6fb89298e0d7c0ce67adba8b56cdec6e37c2f8f78fa68ca15b21079ca9a6c0611abe7d077504baee134292ebf
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: WiFi pentest tool and MITM
+
+Package: getproxy
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./getproxy_1.0_all.deb
+Size: 3404
+MD5sum: 4b9dbf2dfe43a10d0921981408784e5c
+SHA1: ef5def666b4045ce1fcee047a3108d72b49c5203
+SHA256: 8cff752c8acb2925590575e6cec7d7d4ba32a367c65ca3e7ac3183d30076de99
+SHA512: d7cab5778ca7aec571fbc8df9d906cb75753c834070bb9818433cbc70780088df7839d2f62eb62e8aa26aa8646e0e7bd1166c67874e8edbbdc4e289a51380d4c
+Homepage: https://github.com/Dima-diep/termux-dark
+Description:
+
+Package: ldd
+Architecture: all
+Version: 2.38
+Maintainer: @Dima-diep
+Installed-Size: 1
+Depends: binutils-is-llvm
+Conflicts: binutils
+Filename: ./ldd_2.38_all.deb
+Size: 964
+MD5sum: 53568b83de0a8615f272ded0a66654c1
+SHA1: d0c01d400b338db5e94a66bbda42ce5e4b16cbc7
+SHA256: 24ced92bd1b36fa1406f9a4d56d34b17d6b8f8a8b2010d2011e2f977d7def241
+SHA512: 2b5cdd419463b3317e407ab828fec23aa383d926017b553e66c6e9501ebeb09b66bda7369dc225679868e93ed977fa9d85563ab34b7ed8f00598e02ff79beec3
+Description: ldd Termux script
+
+Package: linux2
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: curl,proot,tar,python,wget
+Filename: ./linux2_1.0_all.deb
+Size: 1928
+MD5sum: 463ef54bfbca5dab755764d9768f5bf3
+SHA1: 90f97d04c26ef51df1a6be1cb7a17b969d66c3de
+SHA256: dc90c7d4bd5870ddfb1741dcc8c82f7e05ceccbd36217c1c685931a7aa64478c
+SHA512: 193db4bb337a244502966940355573937000e1a2439c80f70401cdd6b319f39a9161e71a9555cc430e4d88a1baffb0e5995f837adf39a3f9665ff566952d0a84
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: Installer proot-system in Termux
+
+Package: linux
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: curl,wget,proot,tar
+Filename: ./linux_1.0_all.deb
+Size: 1740
+MD5sum: fd06d346e3cac4a5048d773cbe321c3a
+SHA1: 3f04504ef41cc10661b5b2822879e6b6c8272afa
+SHA256: c0d38b0e1ec6f423d44ef3e71fca31cc1d2f7020d897e6944f92da69c8d28f8c
+SHA512: 2f1c9bb6b3fb854b260e0e4d0e70b459d900bb5c4203d414a2bfcf790c689450bff966437f2c3788045bd6b0274314ceb74af806e1e3801f92c85b92019a7a88
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: Installer proot-system in Termux
+
+Package: malamgulita
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./malamgulita_1.0_all.deb
+Size: 3556
+MD5sum: 838e23a6d039aa2439bb8be78cf72eb5
+SHA1: 68ae025bb651cf818f4f9233e7179b956685e4be
+SHA256: 5bd1171a13dd5a94bc62194ff8f8a589c71258d2d2c46bac34f1e6b84ab64de6
+SHA512: 4f251070c8402dc388555862b9d5a4cba0475959872955a27d88589f58c447891002dbe7352fd3922e509c3ded50ea0ceda670349b391af1fa15dcd12afd05d5
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: Site pentest tool
+
+Package: msfinstall
+Architecture: all
+Version: 1.1
+Maintainer: @Dima-diep
+Filename: ./msfinstall_1.1_all.deb
+Size: 1344
+MD5sum: c5b1db4f343667bf6cdf8b261919c590
+SHA1: 5d33ae453476e457e25d62811078d1887eb3168e
+SHA256: 92a6635f323097025d6729ec1cde934373291d179f90297710668d01981c9154
+SHA512: 027e0ee4f090ba392074bc05ccaeda98730a36a362fb18845d020407eeb2625061f9454fb75341492dc9c7e0254e54348dab4639127a23d88fdd26e1490aedc7
+Homepage: https://github.com/Dima-diep/Metasploit
+Description: Installer metasploit for Termux
+
+Package: screenrecord
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Filename: ./screenrecord_1.0_all.deb
+Size: 780
+MD5sum: 766ccfe8dd6fd174d6c70821e0089367
+SHA1: 235b774acf6624d1e532017eaedcd961d95d510e
+SHA256: 9a2df8787d5ff66e84fdc9dbd96a583882103b747d9d7443856aa809af2933fd
+SHA512: 2c80c2b1bf33c7f2c3ea720d7bba948f4b385929d9eaeef511da267b5e57e05686010283230d33b26a748f38c39b2be18048f70c534873449757146b4da4cf83
+Homepage:
+Description: Screen Recorder for Android
+
+Package: soft-ap
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./soft-ap_1.0_all.deb
+Size: 2388
+MD5sum: 6237cf8f98a3adf16ff8749aacc56b1b
+SHA1: 5b7c1c6a4ce756fae4ee899fd738ce18062c1aa7
+SHA256: e9e9bb5c38df01a2a78374d8df4bc5ab5c9b3c0a3e2a0bd4abb30c6a93e18b7f
+SHA512: aec730c2a53c2732c0c2c8e65484083c418871db299485c7b67d5cf4a659b6ec4c3e8868c49414ddffa3b5168e12e6c513a3d269f0d863947524c91ae0f46275
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: WiFi pentest tool
+
+Package: termplayer-mpv
+Architecture: all
+Version: 1.4
+Maintainer: @Dima-diep
+Installed-Size: 1
+Filename: ./termplayer-mpv_1.4_all.deb
+Size: 1136
+MD5sum: 5e09602573f8c69fae48b58810baea64
+SHA1: cbd35f2eecd33818ed9ae037084aad8962243d05
+SHA256: d2a49002f4d48acb4755015523a91fca0ed07b34839687e7575426449dead8b3
+SHA512: 2b283b97675ec4d07950440327cbcbff9bbb2b8f834c3adf2e50fe8aaaee474d265c85194464d960d40f2d7d468def7d6e03dafbd2a128c4ae141109792c7d49
+Description: MP3 Player for Termux (on mpv)
+
+Package: termplayer-sox
+Architecture: all
+Version: 1.4
+Maintainer: @Dima-diep
+Installed-Size: 1
+Filename: ./termplayer-sox_1.4_all.deb
+Size: 1140
+MD5sum: e5956c3226391139521c5a9cf70ed90b
+SHA1: 2e546ce0ff327daeca8399f9fc402a84b91bd6b0
+SHA256: 230ed90f4c4be5896fc7de4663533c837fc515075dd1e61a6f0057ae1bf89703
+SHA512: 9407b1ea8443a20a84e4be5978cce42b8da916c693495eff9a0d96da3482c3ff0d55a0e82f43f6d4686b11e94205928834b0027d3e7359b1b3dfaed4f49e4032
+Description: MP3 Player for Termux (on mpv)
+
+Package: termux-gui-package
+Architecture: all
+Version: 0.1.4
+Maintainer: None
+Filename: ./termux-gui-package_0.1.4_all.deb
+Size: 5740
+MD5sum: 36abdff1aed02ebba7202ff190e0f9d2
+SHA1: 9439a6386e65d65932e25aa21c6b18c6da249a38
+SHA256: 67c18cbb9d88f8b7ead6aa0ad8d50cfd73cb25c116bd6b2c3e8a2be12d69f31a
+SHA512: 4e93994e7acbac27619aebe439d903c8a80067207a3dca673cb006628e5cf2564014f04d604f9a35d0330d8220746fa37811c06b7b7c4a353d88f66cd8b3923b
+Homepage: https://github.com/tareksander/termux-gui-package
+Description: A Termux package containing utilities for Termux:GUI.
+
+Package: timer
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python3
+Filename: ./timer_1.0_all.deb
+Size: 820
+MD5sum: 9ca744a9b6da4198e06cba4310b3f36b
+SHA1: 540382b4434da564b204740f365c5cb786871b5f
+SHA256: c0e1132f04881de341f0fa87bf144c1dc53dde67a03b238063f1250a5b49fc29
+SHA512: dec3d21749feb1d1d2543d37ec808b10a94964a52dc645294d47e9f7fa418ce48dcb5c181f19f159c9159a9950d39a34091308fa85053a9b3d21e74da3fe61e6
+Homepage: https://github.com/Dima-diep/linux-dark
+Description: timer
+
+Package: vid2aud
+Architecture: all
+Version: 1.0
+Maintainer: @StalinKali
+Depends: ffmpeg
+Filename: ./vid2aud_1.0_all.deb
+Size: 816
+MD5sum: ca1d6ef12d617b2b0356768497259967
+SHA1: 866983fcc494c94577c7ffb929d58caab85f283a
+SHA256: 79f18eebbffecbc986757b519bec74f599aa66aec78caef43347f43fe4cf1ab4
+SHA512: 39b4043ce035de20fd1e00dfc9cc5b04146a556fdac963c322efa55691b4ebac1f3f29555c81184edd53ff6578f1f8536c0434e288ba93de6cedb47f26a1c739
+Homepage: http://notabug.org/StalinKali/vid2aud
+Description: Converter video to audio
+
+Package: yt-audio
+Architecture: all
+Version: 1.0
+Maintainer: @StalinKali
+Depends: python
+Filename: ./yt-audio_1.0_all.deb
+Size: 840
+MD5sum: ef8655259c1b78142340fa0480fb836c
+SHA1: 6a08e270801e9c65cd6513829da97c85126897f3
+SHA256: fa525496f02561bb53701894d54b8f98ddadb59387a8bde17e8748bde1b2a15a
+SHA512: 04d8e08c1bf89eb89e8ea3e04fa558143047e339c81ad37eb8f0898d0aed40135daac68a5d7a45821a4677d5fa47ab36a9b44845a0ffdeb713cc0b6a026d808b
+Homepage: http://notabug.org/StalinKali/yt-audio
+Description: YouTube audio downloader
+
+Package: yt-video
+Architecture: all
+Version: 1.0
+Maintainer: @StalinKali
+Depends: python
+Filename: ./yt-video_1.0_all.deb
+Size: 836
+MD5sum: 9dcd94c708ac94b566e9c7d532f332fa
+SHA1: 442d3cbad9fe559d5d606872225ad66a58ba6409
+SHA256: f709fbc402ad6a05e0ec21c84e464e94136056c274361f59baa2bf77738c2909
+SHA512: 0a16cc5b8f7d545f747f067fa344b50543219c3c1c1d663a20b0ff8569fb4ca7f70ec5f643e1e38c4f831b0c529e4dbd1bf04c8e81595eea11da413a9c0b5c2e
+Homepage: http://notabug.org/StalinKali/yt-video
+Description: YouTube video downloader
+
+Package: zenmap
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: nmap
+Filename: ./zenmap_1.0_all.deb
+Size: 1096
+MD5sum: b034f9f198820a09e1d930c409a8ba82
+SHA1: 86e70a032bd594f17c1dc84c3e4cf6b75a56fe20
+SHA256: a43cbd197f911bb0c4aa93b6f80c89622661c38a3a218cb877fcb075931a420a
+SHA512: 8f4015219473682282b5b122237b42ab14a8bedc73e5ec3308fa742e1e4f26de5b81c2b8625b198b8f1d3c3d389ffa8cfd2cf50cf7d16618d4e21640f65b61fc
+Homepage: http://github.com/Dima-diep/zenmap
+Description: Console version of Zenmap
+

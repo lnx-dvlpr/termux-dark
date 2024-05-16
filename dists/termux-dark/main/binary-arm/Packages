@@ -1,0 +1,315 @@
+Package: btop
+Architecture: arm
+Version: 1.0.6
+Maintainer: @Dima-diep
+Filename: ./btop_1.0.6_arm.deb
+Size: 1046884
+MD5sum: 1de0b5c9a1d7ef84e66c6f7ddc7ad655
+SHA1: 597871a3a79267d02ee2f9ede6a280ec857dedbe
+SHA256: d2bb4086d57d17a347b6a037bcafd3a824b23e05d572d9d62a3fa8730ad37bb9
+SHA512: ecf107142568840202642a7ac3f0aa3facdcdf468fc353831d20a1e7330b58874c64a243125d58d3b8d88baafbfa72fb73392f8486011caad965845fd4dc2180
+Homepage: https://github.com/aristocratos/btop
+Description: Linux task manager
+
+Package: busybox-magisk
+Architecture: arm
+Version: 1.34.1-Magisk
+Maintainer: @topjohnwu
+Installed-Size: 1402
+Filename: ./busybox-magisk_1.34.1-Magisk_arm.deb
+Size: 778920
+MD5sum: 966c74a88a800528b92a9667a5bb052a
+SHA1: f669f0ed7db9894ce10f81e85228f37f4c2b3bab
+SHA256: 3f55218ea4efe15bbc91607ccbca69f2e952685f8f153ceb713996b4761b8e94
+SHA512: 7632bdca4a761de879896bf39ae0bcf59ba7ee3f50978f5dbcd6cd769dd890701adba26e9b999d3e8044c1e6e76ca0f31d93930ecca33138ae5398846b3dade5
+Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: arm
+Version: 1.34.1-meefik
+Maintainer: @meefik
+Installed-Size: 1412
+Filename: ./busybox-meefik_1.34.1-meefik_arm.deb
+Size: 699552
+MD5sum: ccf9f3ee4d87819a05a1833481ed1ee9
+SHA1: 40241628bcc19ccf0ed3d635a216c6384cc51572
+SHA256: 5acd1fe2598bffc979cda997213a42e93a65bca142be6634b1fe2accb2a38cef
+SHA512: 09b633846b17c4c04e02aff8fe09255de10944337da711021c818c8928cea2521aa4f1d4ba14019e9a461462f08be3100a4b28e88df499d7d7240900188552bc
+Description: Meefik version of Busybox
+
+Package: chunkfs-fuse
+Architecture: arm
+Version: 0.8
+Maintainer: @Dima-diep
+Installed-Size: 604
+Filename: ./chunkfs-fuse_0.8_armhf.deb
+Size: 303540
+MD5sum: 067a4587c63d46c1eb5c5099c4cfae44
+SHA1: f0ddde19755f27b39917d2eab27ca3ecd70926f0
+SHA256: a470361296abed4b4cb910d778971c3f0eadb5b8a76c0585f26a8d177091cc2c
+SHA512: a931eff61b11a320dcb0c58650efee25eef1c512e8b0834d2f3eb8921b5dcda68abbc4015128cfa3e660176333dd75de04dbf0651bbecd319ba00f0adc3a7c80
+Description: FUSE chunkfs mounter
+
+Package: dec2hex
+Architecture: arm
+Version: 1.1
+Maintainer: @Dima-diep
+Installed-Size: 15
+Filename: ./dec2hex-armhf.deb
+Size: 5276
+MD5sum: 787403685c71309671d206e840bd2dda
+SHA1: b7146cd808bc4099826c0125e507abfefac47024
+SHA256: ca81e4942948de44eaaf7cdf7415abf6fc18d48ab8757de8c1f0ccf0d240c331
+SHA512: 460582b33db734f319cb4a8b78163a95c8a124f1f8f539ffffa7c65a5d729b590e414feab90010d31465e244e9544b9132b6659e92da107c482754123585d8e7
+Description: Converter DEC to HEX
+
+Package: exfatprogs
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 1688
+Filename: ./exfatprogs_armhf.deb
+Size: 284336
+MD5sum: aa89c73ca31255f509209368b74727e1
+SHA1: 4dbb65b55a0b04bc088cdc286c12ed89bd9a09be
+SHA256: 93bb017a22a6c41d23ef9bb13a4ade788cef130e480c2f4c5c44b069408f7fdc
+SHA512: 0c4e98e1c6c6697e1385ae1dfd2332c44b0048e0db8e954fc1e709ead2f8d78c8ae14be6d8b341abc51972789331fa06eb28095d3137e16f408bcbf20cecf3d5
+Description: exFAT static-built utilities
+
+Package: hex2dec
+Architecture: arm
+Version: 1.1
+Maintainer: @Dima-diep
+Installed-Size: 7
+Filename: ./hex2dec-armhf.deb
+Size: 3128
+MD5sum: 8a7e3687cb006c37373300764cf67520
+SHA1: 8ff3322affd255cedeceac6a71c4ba25ebc3a3fe
+SHA256: 7806fef5fc23829e233ca1320a4ce2032810ca4b50f59b6bd81d72eaefd82f16
+SHA512: 165033f757509e7c2e66be7843b37ce972d012473c9c3a1c34f1fee28d340d02cc051dfae1aa909aaac29df1e41f9e0f85f5e285d3556960c3b4cf254e63b0c3
+Description: Converter HEX to DEC
+
+Package: httpfs2-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 895
+Filename: ./httpfs2-fuse_armhf.deb
+Size: 409228
+MD5sum: 23e7a5e95b326adde67324b76123f1c1
+SHA1: 0b655c73561ec9de2aa4c1221371fa266279c88c
+SHA256: de960dd3784bf339e83fe2a2be73b0a05fa9382067ed266b7ad6a8a70dcac4db
+SHA512: fadbd0f5643f8b25b8105a7c5679df303933934ec5144ea8818a43015bea8fa3c90ddbae96c43a652d36c57b939b9d85e2ef3237e21067ad84b845020200a7c0
+Description: httpfs2 FUSE mounter
+
+Package: libsepol-dev
+Architecture: arm
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1149
+Filename: ./libsepol-dev_3.4-2_arm.deb
+Size: 280700
+MD5sum: 0fc657a75e5d300e4e72b392736c0c32
+SHA1: db249e29535824ff913cc5b3fdc653fd63e24393
+SHA256: 6316011424d4fb719575c03a58cb224b21710c8046c096778e8a105946b4c490
+SHA512: 4b3b377a97eefad88cc53855000897e31bd9eaa055c169d1220cf30c3c3ec30b287e12a71c4ecd8b3acc4518e86226e30153f48f54deed6309310ebffc7e9534
+Description: Library and headers for working with SELinux policy
+
+Package: libsepol
+Architecture: arm
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 797
+Filename: ./libsepol_3.4-2_arm.deb
+Size: 232260
+MD5sum: 01b21c0c30c06b7290ece6aff7c27273
+SHA1: 58d8308914eb3fbebe6457165278688db7355ec4
+SHA256: 948502f87a96bc3925527948c2a28060e25f820a9228dffcd0efac8483d7609a
+SHA512: bb4d3819b69f66c8492114656c8528bd6c91b5f99f59e7902b590e5dbeb2556d8fa27abc09d4dda395fd2f97cac4a87903de24e104c7eefec741feddd30926c2
+Description: Library for working with SELinux policy
+
+Package: mergerfs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 1424
+Filename: ./mergerfs-fuse_armhf.deb
+Size: 647660
+MD5sum: 2601ff5f2fe66966a84388d44a002c4e
+SHA1: fede87da768d5afcb524f53744a2368e7dc7fc41
+SHA256: b5f81e7ec0ca5fd66cc4ba86a199938b241ac026dd562aa0c5e0ab6a646e50f5
+SHA512: cc47f939651a005d23b7e0f25d0723a82b648107645c5e87b75691b130412ffdc459063c22c106702ef8823e772f1aabdce5de78d37e74f036a9ba635502845b
+Description: mergerfs FUSE mounter
+
+Package: mfs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 608
+Filename: ./mfs-fuse_armhf.deb
+Size: 304480
+MD5sum: ed52077e0b855962d318a16b29752200
+SHA1: af92ca60b118616bae59c0361361ef4e972db684
+SHA256: 2faf4e9cdd07dcf79cea690744e2dddcf0a7c0917a075c032b5198283e5e22b4
+SHA512: f046c55cb22b043971d5a0d5987644f17403a398c20438d76cac20ab1fe26c6f82a1f8af21f9ef86039c7060884e61e5376cd988dfb538105a92a84462dcbc85
+Description: mfs FUSE mounter
+
+Package: mhddfs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 620
+Filename: ./mhddfs-fuse_armhf.deb
+Size: 309396
+MD5sum: 5fba92bc7f0e6d35907d0709158783dd
+SHA1: 8f2f2de5cb2e213b61ca36e4cc924f66b838130a
+SHA256: 95d387cc230a9d140978edf591e92e94e24a1c37974e6ab8927cc6b0359c6059
+SHA512: dc0c0308aea862aafa46cce886145bce3505d9b0be10f952b5d7d548de864b07bd078acbf6d3989b3e8a1a25691f76853a4e8aa65742aa283f4028f5d6049bfd
+Description: mhddfs FUSE mounter
+
+Package: mkbootimg-static
+Architecture: armhf
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 924
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-armhf.deb
+Size: 199836
+MD5sum: 2839c7eb2ddec0f78769d18f30f55d19
+SHA1: ae548b5d884e52660f0d0c96b9b8a88f9b5a79f4
+SHA256: fca80f355aeafbdb370ecbcf3bb79176d612125cfda55789bb8cde830dc20257
+SHA512: 3b10a69b535f143f8e538a1b830d175a00d425ffa6d0b45b0ea9d29ca35accf3b2228c548e90dc76723114b2f3a13651b2d79012bbdd49b9f4457f7fd0a313b3
+Description: Static bootimg utilities
+
+Package: nfs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 829
+Filename: ./nfs-fuse_armhf.deb
+Size: 408304
+MD5sum: 4c92b95e19e70cabd10bce96bdd2566f
+SHA1: 4fd0030c38286df10c244c193a9f1821d7861f7a
+SHA256: 470f071f73d847a87adfcfbf5145c37ebca2ceb1c03ead4314e9c08e31b141c3
+SHA512: cef85cbc49ff396bd06359c67e4af6f806741a0882a8afe716710d4c6fbbebf1fa6b26d990f7a2ec615ffb2c44628c505b4e13bb954b465ae40b5baf8c5c7c5d
+Description: nfs FUSE mounter
+
+Package: ntfs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 42
+Filename: ./ntfs-fuse_armhf.deb
+Size: 23644
+MD5sum: b708be17877fa407c045087ab61bb3a3
+SHA1: 6dd92b571a3b693b67180403da06627b587df4c6
+SHA256: 21a70e1ff81fe6acc1062df6a5e43b986aa4e8e723c5e4352fae3e13400d01d4
+SHA512: 193f18e7d02e293ce79d8edabbe8dd5fe93f1fd9e4b0a3887b616ac6b39b28b31c4263c5bca9fd6e160027580749791780ad9492bbc655b9006bd604c6555ed7
+Description: FUSE NTFS mounter
+
+Package: overlayfs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 808
+Filename: ./overlayfs-fuse_armhf.deb
+Size: 353956
+MD5sum: e2b30f73011e59f28a0dc296f4d16566
+SHA1: 21c4f8c30fcdad245636a982275314e4d1ba5691
+SHA256: 11fc7ddd7da5262f88bfe97e48cdb58c8e1d6c665bd8ed434ae9a7dd0c63afbf
+SHA512: 35daa752d76530e616b58984d5f40d91a7791376dd615023fff233e1f0883919ae53e78aa69d95e957ad2225bda75529723dcbb4afe7bfb520f2c13cf1b2d3a8
+Description: FUSE overlayfs mounter
+
+Package: rotatefs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 588
+Filename: ./rotatefs-fuse_armhf.deb
+Size: 290872
+MD5sum: 4c6c6a38219c81faae152e07345553d2
+SHA1: c191945590495dcc4044c1948acdb7c6917746e5
+SHA256: a266a9aca727ab0bb5aab2ac65b8dec95b667cfe865c08e8441f860f6f70f891
+SHA512: 29de9f62873fef5515575ed477534f5345926e2d66b2128c7c78a08a5dd0f7c43d37649d545b3a5ba116a86ccc9627ae59e96eb44f34b707f323ab5c150d58a4
+Description: rotatefs FUSE mounter
+
+Package: secilc
+Architecture: arm
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1693
+Filename: ./secilc_3.4-2_arm.deb
+Size: 227204
+MD5sum: 375e3bc5b014499eddb2c44fd216ffc0
+SHA1: 287e11dc4763a67428c07c1856706c06ac35bfbf
+SHA256: 563f8958bca12e6abbc971b60b2db6cc6a1041c55920c4224cd2bc2ff504680b
+SHA512: 258d80ec8ccb71c7eec768b64c3c5f6df2e2ff40a4ae41022e17670ff19b47e539fc9fafdd5beb50ca6d77ad21597aecaf9bb94b56d7d14487aa26f5d98cb04d
+Description: SELinux CIL policy compiler
+
+Package: semodule-utils
+Architecture: arm
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 832
+Filename: ./semodule-utils_3.4-2_arm.deb
+Size: 120884
+MD5sum: c942896ac3b40be1f9304c9f7cdb79e9
+SHA1: daba8529e3c10d4f92be6e95334708519c6a88cd
+SHA256: 40ea6d7ba3943660c30ec44bcd57944ff7a5afc4ec217474415fb0eb199af402
+SHA512: 1e216b282b4693504a2ee5c65167ce0b729ffbcf2d9af2784a81f6ac6f3f7f1c5d7803c2242d508b8306be4746cf1d49a3c979aafbeadcbd28fedda36b52d241
+Description: SELinux module utils
+
+Package: sepolicy-utils
+Architecture: arm
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 38
+Depends: libsepol (>=3.4-1)
+Filename: ./sepolicy-utils_3.4-2_arm.deb
+Size: 6344
+MD5sum: 8e41a6c33d0aa403ce5501d9e99ad36f
+SHA1: bd2f6603f564f2bf05cb38a26968eb33f5508025
+SHA256: b77affd421af4488162116c5471791e8f367cc42fa097fb8923f00f132274b30
+SHA512: 1b3ce692e5db90c60542431ce1dda7aad2a04ef8b1ab6969c79d6877b9c70d4dae29a9750afd738b63aa8d7003894739e1050d56e63bc11414a819c8da0aa023
+Description: SELinux policy utils
+
+Package: sudo
+Architecture: arm
+Version: 1.2
+Maintainer: @Dima-diep
+Installed-Size: 38
+Conflicts: tsu
+Filename: ./sudo-armhf.deb
+Size: 11532
+MD5sum: caed5af26969b223ff5f6256a736b541
+SHA1: 8ff6bc22ac3f7fff76a04606e5e83ce51173b8e5
+SHA256: 950adc026aa08ba2798c8ba6d86787966f5b9309264feefbdaf3f226e3b5c1e3
+SHA512: 45bb2b643d0e7f7eaf64da2ae3b7a0401be6a4078450e0a2bd8ea0561f8fa9217a990b92db918190a76418e3c11f871a9a0bf1d233905bab4cdc65f8ece3d30c
+Description: Termux version of sudo binary
+
+Package: unreliablefs-fuse
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 1024
+Filename: ./unreliablefs-fuse_armhf.deb
+Size: 356720
+MD5sum: 283553686a4f1840c56bab718d065297
+SHA1: 1551834ffc636c47413dd9e4e325c2f909876dac
+SHA256: 1e80a074aa1d14f5f7ccebeef83e50791318df307cfcca1dbdc25fc6e6219c5c
+SHA512: 17b70b290af394ba1c8b2d773e28e7f5b96ee557f516b79ffe24e638434b52ef7d76a41da0d5b80695608b59d266528c449d2b4f26a91427329dc87e302a248f
+Description: FUSE unreliablefs mounter
+
+Package: upx
+Architecture: arm
+Version: 3.96
+Maintainer: @upx
+Installed-Size: 380
+Filename: ./upx_3.96_arm.deb
+Size: 389072
+MD5sum: 84a616740e8765e6b3831ac7fe4bb8b4
+SHA1: 48e2d3539c2b9904f5fd7b8be90f7ea289423373
+SHA256: 9a18176ebaa6f1d315f0e3e60f4b90649663e8687bd177f0fefc0e5220212f71
+SHA512: 34520070785e579f0bdc70e5db266578b861007c05f48dc3394c2872a8f82d6ffc9f29181b0b4bc6721c2d5c160909d186fb1eebd7e3ab3d25d5d3ff8ffe8a27
+Description: Reverse engineering tool
+

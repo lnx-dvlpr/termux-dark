@@ -1,0 +1,158 @@
+Package: btop
+Architecture: x86_64
+Version: 1.0.6
+Maintainer: @Dima-diep
+Filename: ./btop_1.0.6_x86_64.deb
+Size: 1250544
+MD5sum: 3788795f3a3baa6c240b9e8eff47864a
+SHA1: 9c7f04eafcbee6f0785017a45395f0b75618040a
+SHA256: ccd408ad3cef1694ee97e989b4f572a1f2bb8e2c7ac194527694775aae1bf2bf
+SHA512: a1f375334b84438a483a9284e3b22cc3694fdf614e05ea9ef8fcd189810212bcb669440d42ed8a631fb88ba6cdeb2aa1641f80d6f73ab4fb897d4c0f05c4a4b2
+Homepage: https://github.com/aristocratos/btop
+Description: Linux task manager
+
+Package: busybox-magisk
+Architecture: x86_64
+Version: 1.34.1-Magisk
+Maintainer: @topjohnwu
+Installed-Size: 2163
+Filename: ./busybox-magisk_1.34.1-Magisk_x86_64.deb
+Size: 930216
+MD5sum: 9a2fc2c11f72c4ddace3173322bfa76e
+SHA1: 23a5ddd44c9c37c5c0af69e444ead079509148c4
+SHA256: 9907313c1739bbdfdca799f4041f81914db007eca4871bdb9ba2ae86008d8389
+SHA512: 450e6453d723d8d974710ef74f8c32bbcb0fa8e36f22dc05878093a1b75e9f6095e593e43503e65a9cc28a64ede06ea6230009c730c1f5c7021907f82ce067bb
+Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: x86_64
+Version: 1.34.1-meefik
+Maintainer: @meefik
+Installed-Size: 1577
+Filename: ./busybox-meefik_1.34.1-meefik_x86_64.deb
+Size: 797160
+MD5sum: cf4c1527b4737731fe81a210467d08be
+SHA1: dad06c84c946de401890ba58895d9d4f2bcde731
+SHA256: e62c850716700e7a60a2691cbd1cece5c54c82379854fd7c896b435f6801d123
+SHA512: a77002dc7e356d49c3d38eee851410771e612a1607655f59271e713b293a80e049e7ab383fa1daa7c07b086a5cb62e70fb7df153e9dec556a163a899adef7d60
+Description: Meefik version of Busybox
+
+Package: dec2hex
+Architecture: x86_64
+Version: 1.1
+Maintainer: @Dima-diep
+Installed-Size: 36
+Filename: ./dec2hex-x86_64.deb
+Size: 14000
+MD5sum: a80df0b5c6e39ec2f94c6eac4dcfc32d
+SHA1: 18d12e72ea3a03d467fa7a8a759c24374615449d
+SHA256: b1d1fe14a7376ebe1e912b1f0d0dd852f355376b254383e4adff535a4464b7cc
+SHA512: 490627bba9e536e3da5a1a20d4c19afcd35f3dd812960864228b40cd5365ec23dba0f72bc585c0980c2e1fab91eaa91bf4ef38c3743036e7fb4715f1a99c3027
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: x86_64
+Version: 1.1
+Maintainer: @Dima-diep
+Installed-Size: 35
+Filename: ./hex2dec-x86_64.deb
+Size: 13364
+MD5sum: 7d8f0a35c3b677d6dc317ca028d45c43
+SHA1: f06468f40e181d98129cfe7c6f0f5701dfe3cae1
+SHA256: e47cc8665c7de12c06bed383ebb57bae42e617b33f1bbaf981233e875657820c
+SHA512: abef8954050287e60c4edcbce8855b4a6d4cb76d70eda0247022cad71f8d73a4b174c72cf1bc69007987c342a0d21dc7fcd66e661d99c36ffe102b7b43f061cd
+Description: Converter HEX to DEC
+
+Package: libsepol-dev
+Architecture: x86_64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1500
+Filename: ./libsepol-dev_3.4-2_x86_64.deb
+Size: 302388
+MD5sum: 89327f08dadb1a91a6afc103a98db548
+SHA1: 77f75e1e2866f9f53834fcee187363be6286ed42
+SHA256: 392afcab030a305c090c864182900060555c1121e4e17d31620d46f08c6be45c
+SHA512: fc3a766d5a748dcb66d30a6a3181b3c4983d338371924128b3315c6434cad9fc5f42120f370f37270ae7fa039d01a55b989cd11a2214da3196608c75c729dfbd
+Description: Library and headers for working with SELinux policy
+
+Package: libsepol
+Architecture: x86_64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1624
+Filename: ./libsepol_3.4-2_x86_64.deb
+Size: 267708
+MD5sum: b2e073f979a110a1efb96e832111e8c2
+SHA1: 47ea6eff542ab9b1fee150e2d2780617e0fe44e4
+SHA256: d5e06b05960ab360a04e3f2a956bde31bb30007a87b48cb31cd733a733f54326
+SHA512: 568ec718b5ca34e16527083208a99e7c97341bbeca0c85cd1200ca3c0637dceacf881cdced25dbf0309dd8e0df1141731bf2977d4dcc6a524c621f03820da876
+Description: Library for working with SELinux policy
+
+Package: secilc
+Architecture: x86_64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1737
+Filename: ./secilc_3.4-2_x86_64.deb
+Size: 267920
+MD5sum: 0718b96f8fbd667524d5a29c0757d1ce
+SHA1: d187160e15028bef323b5624be43ba8d404765ce
+SHA256: ffeb0fa2f60ae3d9f539ee393cf852926b0db3b201f85611ae4db45c08b1cd83
+SHA512: 34f97719824bb60ed603dff0c307de54f002fabdcac6ce86d58956404bf45b673b8e2113f9c46edf0d04ba3bdd29b6701bb611f0da8ee93bf8fe357eafca150f
+Description: SELinux CIL policy compiler
+
+Package: semodule-utils
+Architecture: x86_64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 853
+Filename: ./semodule-utils_3.4-2_x86_64.deb
+Size: 142580
+MD5sum: 5ad32d1bf2b7810a7d4f98c8fdc7ffff
+SHA1: 7cd76a10260183c8bdf1528cd8f65009b60140db
+SHA256: 1ad17e976a0704a92995e0bcef23ab0a9cd84296cde7421b7ea9e0e2d469e4ec
+SHA512: ccbe2c9e103f60c32d3991ef8477d7f94d858f0c458bd832bd64f77b59f7ffd3f0f962daea473fdcd62133c00618b7df9f7e0a403c1b60b858902d40258c45bb
+Description: SELinux module utils
+
+Package: sepolicy-utils
+Architecture: x86_64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 42
+Depends: libsepol (>=3.4-1)
+Filename: ./sepolicy-utils_3.4-2_x86_64.deb
+Size: 7180
+MD5sum: e108fd31645546e5156b7c53285b36ae
+SHA1: d958d9eb3240fc0d3d903bd8c05bc97842e7035b
+SHA256: 65d24c5c05a9b040a3bc1c85d77b74d3a2323bb3617d03e75f239cd29b3e33f6
+SHA512: bb2d1df19e13765ccb4238045abafd0f9c00f144a4e5f95b504a19408cb7f6e58f84dd71bd61545568e024412b24db71fd9493c25bf3bf20a2e2adb9b6ff858a
+Description: SELinux policy utils
+
+Package: sudo
+Architecture: x86_64
+Version: 1.2
+Maintainer: @Dima-diep
+Installed-Size: 52
+Conflicts: tsu
+Filename: ./sudo-x86_64.deb
+Size: 19404
+MD5sum: 808c0ab071a951ef56654631cb09ec3b
+SHA1: 30e8f8bebc679b2fe875a273618d42b73bfde086
+SHA256: d71541c180da47ff57205e49eab5fe4edd9d88a40608f7c541007dd33f638e46
+SHA512: a575092c7954cee9c9cb2f2c6019a3b069b32487e87e561c5633b7161b7e0bcb60ec7aea2da1159f04a4a3b507f19bd8b9109da73f5b4db51d60da441eaeb0a4
+Description: Termux version of sudo binary
+
+Package: upx
+Architecture: x86_64
+Version: 3.96
+Maintainer: @upx
+Installed-Size: 419
+Filename: ./upx_3.96_x86_64.deb
+Size: 429092
+MD5sum: 4353e5b3a7fade4493fdc03f208470c5
+SHA1: a144dc33f3bc8aad69ab06a69979afa6d9415012
+SHA256: 6880eb08f4144324a9a3ddd4ba23d7231fc49417eb21a6f321d09fe79be33ce4
+SHA512: b03f5f889b9ecc1c7d8ae5c6cf9126bbfa69f213575cabc570a01ee4995cc36ff24d399e6a3096a06d7475ed31ceb20b3c653588edb10ddf8ca6f3ef164ffd12
+Description: Reverse engineering tool
+
